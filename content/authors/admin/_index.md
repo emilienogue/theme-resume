@@ -1,76 +1,69 @@
 ---
 # Display name
-title: 吳健雄
+title: Emilie Nogué
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+<!--# Status emoji-->
+<!--status:-->
+<!--  icon: ☕️-->
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Student @ Imperial College London
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Realistic Graphics and Imaging Group
+    url: https://wp.doc.ic.ac.uk/rgi/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'e.nogue@imperial.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://twitter.com/EmilieNogue
+<!--  - icon: brands/github-->
+<!--    url: https://github.com/gcushen -->
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://fr.linkedin.com/in/emilie-nogué-a59213162
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/prime_itn
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: PhD Computer Graphics
+    institution: Imperial College London
+    date_start: 2020-12-01
+    date_end: 2024
+<!--    summary: |-->
+<!--      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.-->
+<!--    button:-->
+<!--      text: 'Read Thesis'-->
+<!--      url: 'https://example.com' -->
+  - area: MEng Photonics
+    institution: Institute of Optics Graduate School
+    date_start: 2017
+    date_end: 2020
+<!--    summary: |-->
+<!--      GPA: 3.8/4.0-->
+<!---->
+<!--      Courses included:-->
+<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
+<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
+<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
+  - area: CPGE MPSI
+    institution: Lycée Joffre, Montpellier
+    date_start: 2014
+    date_end: 2017
+<!--    summary: |-->
+<!--      GPA: 3.4/4.0-->
+<!--      -->
+<!--      Courses included:-->
+<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
+<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
+<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
