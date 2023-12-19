@@ -21,8 +21,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/EmilieNogue
-<!--  - icon: brands/github-->
-<!--    url: https://github.com/gcushen -->
   - icon: brands/linkedin
     url: https://fr.linkedin.com/in/emilie-nogué-a59213162
   - icon: brands/instagram
