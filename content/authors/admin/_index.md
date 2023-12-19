@@ -62,7 +62,7 @@ work:
     location: Toulouse, Occitanie, France
     date_start: 2020-02-15
     date_end: 2020-07-15
-    description: Coding in C++ of software focusing on the detection and segmentation of dynamic elements in 3D lidar images.
+    summary: Coding in C++ of software focusing on the detection and segmentation of dynamic elements in 3D lidar images.
   - position: Stagiaire en recherche et développement
     company_name: FittingBox
     company_url: ''
@@ -70,7 +70,7 @@ work:
     location: Toulouse, Occitanie, France
     date_start: '2019-06-01'
     date_end: '2019-09-30'
-    description: Développement en C++ de calculs scientifiques dans le cadre de la réalité augmentée.
+    summary: Développement en C++ de calculs scientifiques dans le cadre de la réalité augmentée.
   - position: Intern Research Assistant
     company_name: University of Victoria
     company_url: ''
@@ -78,7 +78,7 @@ work:
     location: British Columbia, Canada
     date_start: 2018-06-01
     date_end: 2018-09-30
-    description: Working in the field of nanoplasmonics and optical tweezers to study biomolecules and other sub-optical wavelength particles.
+    summary: Working in the field of nanoplasmonics and optical tweezers to study biomolecules and other sub-optical wavelength particles.
 
 
 # Skills
