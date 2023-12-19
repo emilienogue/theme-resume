@@ -19,6 +19,8 @@ profiles:
   - icon: at-symbol
     url: 'e.nogue@imperial.ac.uk'
     label: E-mail Me
+  - icon: brands/graduation-cap 
+    link: https://scholar.google.com/citations?user=FAtRldkAAAAJ&hl=fr
   - icon: brands/x
     url: https://twitter.com/EmilieNogue
   - icon: brands/linkedin
