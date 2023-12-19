@@ -40,7 +40,7 @@ education:
     institution: Lycée Joffre, Montpellier
     date_start: 2014
     date_end: 2017
-experience:
+work:
   - position: Visiting Researcher
     company_name: EPFL - Realistic Graphics Lab
     company_url: ''
