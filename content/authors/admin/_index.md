@@ -31,6 +31,7 @@ education:
     institution: Imperial College London
     date_start: 2020-12-01
     date_end: 2024
+    description: Early-Stage Researcher in Predictive Rendering in Industrial Manufacturing and Engineering European Innovative Training Network, an EU funded training network for PhD students in Computer Graphics. 
   - area: MEng Photonics
     institution: Institute of Optics Graduate School
     date_start: 2017
@@ -39,102 +40,108 @@ education:
     institution: Lycée Joffre, Montpellier
     date_start: 2014
     date_end: 2017
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+experience:
+  - position: Visiting Researcher
+    company_name: EPFL - Realistic Graphics Lab
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    location: Lausanne, Switzerland
+    date_start: 2023-06-15
+    date_end: 2023-09-15
+  - position: Visiting Researcher
+    company_name: Charles University - Computer Graphics Group
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    location: Prague, Czech Republic
+    date_start: 2022-03-15
+    date_end: 2022-06-15
+  - position: Intern, automatic processing of 3D LiDAR signals for detection and segmentation
+    company_name: ONERA - The French Aerospace Lab
+    company_url: ''
+    company_logo: ''
+    location: Toulouse, Occitanie, France
+    date_start: 2020-02-15
+    date_end: 2020-07-15
+    description: Coding in C++ of software focusing on the detection and segmentation of dynamic elements in 3D lidar images.
+  - position: Stagiaire en recherche et développement
+    company_name: FittingBox
+    company_url: ''
+    company_logo: ''
+    location: Toulouse, Occitanie, France
+    date_start: '2019-06-01'
+    date_end: '2019-09-30'
+    description: Développement en C++ de calculs scientifiques dans le cadre de la réalité augmentée.
+  - position: Intern Research Assistant
+    company_name: University of Victoria
+    company_url: ''
+    company_logo: ''
+    location: British Columbia, Canada
+    date_start: 2018-06-01
+    date_end: 2018-09-30
+    description: Working in the field of nanoplasmonics and optical tweezers to study biomolecules and other sub-optical wavelength particles.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Research Interests
     items:
-      - name: Python
+      - name: Wave-Optical Effects
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Computational Photography
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-bar
-      - name: SQL
+      - name: Measurements for Modeling and Rendering
         description: ''
-        percent: 40
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera
+      - name: Aerial Circus
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: cat
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 100
+  - name: Spanish
+    percent: 60
+  - name: Catalan
+    percent: 40
+  - name: Italian
+    percent: 40
+  - name: Ancient Greek
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: WiGRAPH Rising Stars Program
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    date_start: 2023
+    date_end: 2024
+    awarder: WiGRAPH
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I was selected to participate in WiGRAPH’s Rising Stars program, a two-year program of mentorship and workshops co-located with SIGGRAPH 2023 and 2024 to explore potential career trajectories as they enter the job market.
+
 ---
 
 Early Stage Researcher of Marie Skłodowska-Curie H2021-ITN PRIME | IOGS alumni.
