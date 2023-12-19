@@ -31,33 +31,14 @@ education:
     institution: Imperial College London
     date_start: 2020-12-01
     date_end: 2024
-<!--    summary: |-->
-<!--      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.-->
-<!--    button:-->
-<!--      text: 'Read Thesis'-->
-<!--      url: 'https://example.com' -->
   - area: MEng Photonics
     institution: Institute of Optics Graduate School
     date_start: 2017
     date_end: 2020
-<!--    summary: |-->
-<!--      GPA: 3.8/4.0-->
-<!---->
-<!--      Courses included:-->
-<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
-<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
-<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
   - area: CPGE MPSI
     institution: Lycée Joffre, Montpellier
     date_start: 2014
     date_end: 2017
-<!--    summary: |-->
-<!--      GPA: 3.4/4.0-->
-<!--      -->
-<!--      Courses included:-->
-<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
-<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
-<!--      - lorem ipsum dolor sit amet, consectetur adipiscing elit-->
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
