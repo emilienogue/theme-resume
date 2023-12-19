@@ -19,23 +19,12 @@ profiles:
   - icon: at-symbol
     url: 'e.nogue@imperial.ac.uk'
     label: E-mail Me
-<div style="display: inline-block; margin-right: 10px;">
-  <a href="https://twitter.com/EmilieNogue">
-    <img src="path/to/twitter-icon.png" alt="Twitter" width="24" height="24">
-  </a>
-</div>
-
-<div style="display: inline-block; margin-right: 10px;">
-  <a href="https://fr.linkedin.com/in/emilie-nogué-a59213162">
-    <img src="path/to/linkedin-icon.png" alt="LinkedIn" width="24" height="24">
-  </a>
-</div>
-
-<div style="display: inline-block; margin-right: 10px;">
-  <a href="https://www.instagram.com/prime_itn">
-    <img src="path/to/instagram-icon.png" alt="Instagram" width="24" height="24">
-  </a>
-</div>
+  - icon: brands/x
+    url: https://twitter.com/EmilieNogue
+  - icon: brands/linkedin
+    url: https://fr.linkedin.com/in/emilie-nogué-a59213162
+  - icon: brands/instagram
+    url: https://www.instagram.com/prime_itn
 
 education:
   - area: PhD Computer Graphics
