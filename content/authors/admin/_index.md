@@ -19,8 +19,7 @@ profiles:
   - icon: at-symbol
     url: 'e.nogue@imperial.ac.uk'
     label: E-mail Me
-  - icon: graduation-cap 
-    icon_pack: fas
+  - icon: brands/google-scholar 
     link: https://scholar.google.com/citations?user=FAtRldkAAAAJ&hl=fr
   - icon: brands/x
     url: https://twitter.com/EmilieNogue
