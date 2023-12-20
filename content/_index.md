@@ -30,15 +30,14 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: collection
-    date_format: 'January 2006'
-    view: card
     content:
       title: Recent Publications
       filters:
         folders:
           - publication
     design:
-
+      date_format: 'January 2006'
+      view: card
   - block: skills
     content:
       title: Skills & Hobbies
