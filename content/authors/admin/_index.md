@@ -81,9 +81,6 @@ work:
     date_start: 2018-06-01
     date_end: 2018-09-30
     summary: Working in the field of nanoplasmonics and optical tweezers to study biomolecules and other sub-optical wavelength particles.
-
-publications:
- - name: Pola
  
 
 # Skills
