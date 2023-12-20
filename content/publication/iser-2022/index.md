@@ -39,3 +39,4 @@ links:
 - name: URL
   url: https://doi.org/10.1145/3550454.3555499
 ---
+https://cgg.mff.cuni.cz/publications/affordable-spectral-measurements-of-translucent-materials/
