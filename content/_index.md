@@ -36,7 +36,7 @@ sections:
         folders:
           - publication
     design:
-      columns: '3'
+      date_format: 'January 2006'
       view: card
   - block: skills
     content:
