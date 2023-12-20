@@ -6,20 +6,13 @@ authors:
 - Emilie Nogué
 - Thomas Klaus Nindel
 - Alexander Wilkie
-date: '2022-01-01'
+date: '2022-12-01'
 publishDate: '2023-12-20T12:17:36.430923Z'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Graphics*'
 doi: 10.1145/3550454.3555499
-abstract: "Input: 3 spectral measurements Processing: 3D appearance map Output: scattering
-  properties Albedo í µí»¼ Extinction í µí¼\x8E t Phase í µí±\x94 Fig. 1. We present
-  a method for measuring bulk optical properties of translucent materials, such as
-  the base inks of a full-color 3D printer. Starting from a thin sample, we measure
-  three spectral intensities: on a black background, white background, and of a collimated
-  light beam. After a fitting step through our precomputed 3D appearance map, we obtain
-  the material's spectrally-varying albedo, extinction coefficient, and phase function
-  anisotropy. We present a spectral measurement approach for the bulk optical properties
+abstract: "We present a spectral measurement approach for the bulk optical properties
   of translucent materials using only low-cost components. We focus on the translucent
   inks used in full-color 3D printing, and develop a technique with a high spectral
   resolution, which is important for accurate color reproduction. We enable this by
