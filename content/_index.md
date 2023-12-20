@@ -34,19 +34,19 @@ sections:
       title: Recent Publications
       subtitle: ''
       text: 'Check out my recent publications below!'
-      filters:
-        folders:
-        - publications
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      sort_by: 'Date'
-      sort_ascending: false
+    filters:
+      folders:
+    - publications
+      author: ""
+      category: ""
+      tag: ""
+      publication_type: ""
+      featured_only: false
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+    sort_by: 'Date'
+    sort_ascending: false
     design:
       view: card
   - block: skills
