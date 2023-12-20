@@ -131,7 +131,7 @@ languages:
   - name: Ancient Greek
     percent: 70
 
-# Awards.
+# Awards and Services.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
@@ -143,6 +143,8 @@ awards:
     awarder: WiGRAPH
     summary: |
       I was selected to participate in WiGRAPH’s Rising Stars program, a two-year program of mentorship and workshops co-located with SIGGRAPH 2023 and 2024 to explore potential career trajectories as they enter the job market.
+- title: SIGGRAPH and SIGGRAPH Asia reviewer
+- title: Web administrator for EGSR 2024. 
 
 ---
 
