@@ -30,18 +30,9 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: collection
-    content:
-      title: Recent Publications
-      filters:
-        folders:
-          - publication
-    design:
-      date_format: 'January 2006'
-      view: card
-  - block: collection
       id: posts
       content:
-        title: Recent Posts
+        title: Recent Publications
         subtitle: ''
         text: 'Check out my recent blog posts below!'
         # Choose how many pages you would like to display (0 = all pages)
