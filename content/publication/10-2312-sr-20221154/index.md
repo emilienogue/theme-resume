@@ -22,4 +22,8 @@ abstract: We present a practical method for measurement of spatially
 tags:
 - Computer Graphics Forum
 - EUROGRAPHICS
+links:
+- name: URL
+  url: https://diglib.eg.org/handle/10.2312/sr20221154
 ---
+https://diglib.eg.org/handle/10.2312/sr20221154
