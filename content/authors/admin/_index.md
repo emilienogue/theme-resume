@@ -32,16 +32,16 @@ education:
   - area: PhD Computer Graphics
     institution: Imperial College London
     date_start: 2020-12-01
-    date_end: 2024
+    date_end: 2024-12-01
     description: Early-Stage Researcher in Predictive Rendering in Industrial Manufacturing and Engineering European Innovative Training Network, an EU funded training network for PhD students in Computer Graphics. 
   - area: MEng Photonics
     institution: Institute of Optics Graduate School
-    date_start: 2017
-    date_end: 2020
+    date_start: 2017-09-01
+    date_end: 2020-09-01
   - area: CPGE MPSI
     institution: Lycée Joffre, Montpellier
-    date_start: 2014
-    date_end: 2017
+    date_start: 2014-09-01
+    date_end: 2017-09-01
 work:
   - position: Visiting Researcher
     company_name: EPFL - Realistic Graphics Lab
