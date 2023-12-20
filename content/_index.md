@@ -50,7 +50,7 @@ sections:
         filters:
           # The folders to display content from
           folders:
-            - post
+            - publications
           author: ""
           category: ""
           tag: ""
