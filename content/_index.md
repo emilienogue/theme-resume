@@ -32,7 +32,7 @@ sections:
   - block: publications
     content:
       title: Publication
-      username:admin
+      username: admin
   - block: skills
     content:
       title: Skills & Hobbies
