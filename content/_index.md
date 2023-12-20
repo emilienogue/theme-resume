@@ -35,7 +35,7 @@ sections:
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Awards and Services
       username: admin
   - block: languages
     content:
