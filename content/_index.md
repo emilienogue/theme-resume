@@ -29,6 +29,8 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+      
+sections:
   - block: collection
     content:
       title: Recent Publications
