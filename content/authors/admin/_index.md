@@ -144,7 +144,8 @@ awards:
     summary: |
       I was selected to participate in WiGRAPH’s Rising Stars program, a two-year program of mentorship and workshops co-located with SIGGRAPH 2023 and 2024 to explore potential career trajectories as they enter the job market.
 - title: SIGGRAPH and SIGGRAPH Asia reviewer
-- title: Web administrator for EGSR 2024. 
+- title: Web administrator for EGSR 2024 conference
+- title: PhD representative for Equality Diversity and Culture Committee at Imperial College London 
 
 ---
 
