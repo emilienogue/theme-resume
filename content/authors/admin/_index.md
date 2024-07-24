@@ -43,13 +43,6 @@ education:
     date_start: 2014-09-01
     date_end: 2017-09-01
 work:
-  - position: Research Intern
-    company_name: Adobe
-    company_url: ''
-    company_logo: ''
-    location: Paris, France
-    date_start: 2024-02-01
-    date_end: 2024-31-07
   - position: Visiting Researcher
     company_name: EPFL - Realistic Graphics Lab
     company_url: ''
@@ -152,7 +145,7 @@ awards:
     awarder: WiGRAPH
     summary: |
       I was selected to participate in WiGRAPH’s Rising Stars program, a two-year program of mentorship and workshops co-located with SIGGRAPH 2023 and 2024 to explore potential career trajectories as they enter the job market.
-  - title: SIGGRAPH and SIGGRAPH Asia reviewer
+  - title: Reviewer for SIGGRAPH, SIGGRAPH Asia and Transactions on Graphics (TOG)
   - title: Web administrator for EGSR 2024 conference
   - title: PhD representative for Equality Diversity and Culture Committee at Imperial College London 
 
