@@ -49,6 +49,12 @@ work:
     company_logo: ''
     location: Lausanne, Switzerland
     date_start: 2023-06-15
+  - position: Visiting Researcher
+    company_name: EPFL - Realistic Graphics Lab
+    company_url: ''
+    company_logo: ''
+    location: Lausanne, Switzerland
+    date_start: 2023-06-15
     date_end: 2023-09-15
   - position: Visiting Researcher
     company_name: Charles University - Computer Graphics Group
