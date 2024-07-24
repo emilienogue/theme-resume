@@ -50,6 +50,7 @@ work:
     location: Paris, France
     date_start: 2024-02-15
     date_end: 2024-07-15
+    summary: Mentored by Adrien Kaiser, Jerome Derel and Valentin Deschaintre.
   - position: Visiting Researcher
     company_name: EPFL - Realistic Graphics Lab
     company_url: ''
