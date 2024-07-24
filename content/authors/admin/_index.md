@@ -43,6 +43,13 @@ education:
     date_start: 2014-09-01
     date_end: 2017-09-01
 work:
+  - position: Research Intern
+    company_name: Adobe
+    company_url: ''
+    company_logo: ''
+    location: Paris, France
+    date_start: 2024-02-01
+    date_end: 2024-31-07
   - position: Visiting Researcher
     company_name: EPFL - Realistic Graphics Lab
     company_url: ''
